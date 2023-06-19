@@ -8,7 +8,7 @@ Summary poster about the project -
 [Nidhi FYP Poster.pdf](https://github.com/nidhirw/EngineeringHonoursProject/files/11783963/Nidhi.FYP.Poster.pdf)
 
 Project summary video (10 minutes) - 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7071769373559967744?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7071769373559967744?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>](https://www.linkedin.com/posts/nidhi-wadhwa_around-this-time-one-year-ago-i-finished-activity-7071769940344655872-mPi4?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/nidhi-wadhwa_around-this-time-one-year-ago-i-finished-activity-7071769940344655872-mPi4?utm_source=share&utm_medium=member_desktop
 
 Full project report -
 [ENG4702 Final Report.pdf](https://github.com/nidhirw/EngineeringHonoursProject/files/11783965/ENG4702.Final.Report.pdf)
